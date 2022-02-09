@@ -1,0 +1,6 @@
+{
+    "token": "",
+    "guildId": "",
+    "mongooseConnectionString": "",
+    "allowMultiGuild": true
+}
